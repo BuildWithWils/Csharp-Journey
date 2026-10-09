@@ -1,0 +1,2 @@
+// Day 2 of Learning c# | How to Format Output
+ Console.WriteLine("\tWi\blson"); // t is for tab  , b is for backspace , 
