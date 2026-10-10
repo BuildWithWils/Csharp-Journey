@@ -12,3 +12,4 @@ C:\Users\HP\Desktop\Csharp-Journey\obj\Debug\net10.0\refint\Csharp-Journey.dll
 C:\Users\HP\Desktop\Csharp-Journey\obj\Debug\net10.0\Csharp-Journey.pdb
 C:\Users\HP\Desktop\Csharp-Journey\obj\Debug\net10.0\Csharp-Journey.genruntimeconfig.cache
 C:\Users\HP\Desktop\Csharp-Journey\obj\Debug\net10.0\ref\Csharp-Journey.dll
+C:\Users\HP\Desktop\Csharp-Journey\obj\Debug\net10.0\Csharp-Journey.sourcelink.json

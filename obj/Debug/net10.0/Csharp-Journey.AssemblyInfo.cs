@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Csharp-Journey")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae26a57fbacf7c4b8639b52ddc6093dbff2c27fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Csharp-Journey")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Csharp-Journey")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
